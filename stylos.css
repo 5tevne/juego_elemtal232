@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/f9/a4/18/f9a41860623f211bcaa72bf001f0fab6.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h2{font-family: 'Black Ops One', cursive;}
+p{font-family: 'Black Ops One', cursive;}
+button{background-color: rgba(92, 18, 33, 0.603);
+color: aqua;width: 
+345px;font-size: 50px;border-color: rgb(66, 133, 133);margin: 3px;margin-bottom: 56px;}
